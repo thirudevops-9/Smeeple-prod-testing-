@@ -1,0 +1,48 @@
+{
+    "name": "smeeple-web",
+    "version": "",
+    "title": "Smeeple (Web)",
+    "description": "Connecting people to subject matter experts, through video conferencing, to gain knowledge, skills, and insight.",
+    "homepage": "https://www.smeeple.com",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Smeeple/smeeple-web.git"
+    },
+    "scripts": {
+        "build": "nuxt build",
+        "build:preview": "nuxt preview",
+        "build:static": "nuxt generate",
+        "postinstall": "nuxt prepare",
+        "start": "nuxt dev -o --host",
+        "tailwind": "nuxi dev -o & tailwind-config-viewer -o -p 3000"
+    },
+    "devDependencies": {
+        "@types/node": "^20.9.0",
+        "autoprefixer": "^10.4.16",
+        "nuxt": "^3.8.1",
+        "nuxt-gtag": "^1.1.1",
+        "postcss": "^8.4.31",
+        "prettier": "^3.1.0",
+        "prettier-plugin-tailwindcss": "^0.5.7",
+        "sass": "^1.69.5",
+        "stylelint": "^15.11.0",
+        "stylelint-config-standard-scss": "^11.1.0",
+        "tailwind-config-viewer": "^1.7.3",
+        "tailwindcss": "^3.3.5",
+        "vuex": "^4.1.0"
+    },
+    "engines": {
+        "node": "",
+        "npm": ""
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not dead",
+        "> 0.2%"
+    ],
+    "dependencies": {
+        "@nuxtjs/robots": "^3.0.0",
+        "@nuxtjs/sitemap": "^5.1.0"
+    }
+}

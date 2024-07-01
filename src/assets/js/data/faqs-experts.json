@@ -1,0 +1,77 @@
+[
+    {
+        "id": "e1",
+        "question": "Is there a fee to join Smeeple?",
+        "answer": "Smeeple is <u>FREE</u> to join. We believe being fair is the only way to be, and so we only make money if our experts make money. We have a 10% commission fee, per booking. This rate is up to 40% lower than other industry marketplaces because we believe in building this community together. Help us by sharing Smeeple with other experts you know, so that we can win together."
+    },
+    {
+        "id": "e2",
+        "question": "How do I sign up as an expert?",
+        "answer": "Becoming an expert is very simple. We built a program that takes you step-by-step through the process. We'll only ask for details that are relevant to the platform, and ask you to agree to our <a class='inline' href='/terms-and-conditions'>terms & conditions</a>, and <a class='inline' href='/booking-policy-and-agreement'>expert agreement</a>. You'll be able to preview your profile once you build it, to ensure it's to your liking."
+    },
+    {
+        "id": "e3",
+        "question": "How does the verification process work?",
+        "answer": "As the founder once said, \"Just because you played high school basketball doesn't make you an expert\". We're requesting info during your profile build, to proves who you are. There are several ways to help prove you're an expert &mdash; work experience, business ownership, education, training, etc. We've simplified the verification process, and will expedite our response if you've met the necessary standards to have a profile."
+    },
+    {
+        "id": "e4",
+        "question": "How long will it take for my account to be reviewed?",
+        "answer": "Our goal is to review your account, and have an answer, within 24-48 hours."
+    },
+    {
+        "id": "e5",
+        "question": "What is the difference between a private profile and a public profile?",
+        "answer": "We want everyone to be part of the Smeeple community. That's why all experts get access to a private profile. A select number of experts, in each category and that meet our top qualifications, have access to a public profile.<br /><br /><strong>Private</strong> - You'll be able to share your profile, book sessions, and get paid within your personal network. That means you can have video sessions with your current clients, and social media followers. We've made it easy by giving you a share feature on your profile. You can post on your social media, email, or website &mdash; helping you attract new clients too.<br /><br /><em>Example: Social media influencer connecting with followers, or a small business owner holding virtual sessions, instead of driving to the client.</em><br /><br /><strong>Public</strong> - This includes all the benefits of a private profile, but your profile is visible when customers search for experts within the Smeeple app.<br /><br /><em>Example: If someone needs a plumber and searches for listings in that category, they'll be able to find your profile.</em>"
+    },
+    {
+        "id": "e6",
+        "question": "What happens when someone books a session with me?",
+        "answer": "Once someone books a session with you, we'll send you an email notification immediately. Have your email notifications (and push notifications) on, so you don't miss any sessions. We're currently working on SMS/text notifications."
+    },
+    {
+        "id": "e7",
+        "question": "What if I need to reschedule or cancel a session?",
+        "answer": "We understand, life happens. There's no charge, to the consumer, if you cancel at least 4 hours before the start of the session. If you do have to cancel, send the consumer a message, asking them to reschedule for a different time."
+    },
+    {
+        "id": "e8",
+        "question": "Are there things I shouldn't discuss during a session?",
+        "answer": "You're there to provide expertise to the consumer. Stick to your field, to ensure the consumer (and you) get the most out of the session. We expect you to behave professionally, at all times. Those who don't will be subject to removal from our platform."
+    },
+    {
+        "id": "e9",
+        "question": "What happens if I'm unable to assist a consumer?",
+        "answer": "You have the option to refund the individual's money, and we encourage that. We started Smeeple to help others, and bring experts to people's fingertips (that's why our commission fee is the lowest in the industry). So, if you're unable to help them, offer to refund their money, and ask them to leave an honest, yet positive, review."
+    },
+    {
+        "id": "e10",
+        "question": "What advice do you have for receiving high ratings from consumers?",
+        "answer": "Treat others as you want to be treated. Give your best, prepare if necessary, and know the consumer has paid for your time. Treat it with value. Ask questions to ensure you're meeting the consumer's needs.  "
+    },
+    {
+        "id": "e11",
+        "question": "What if I run into technical issues before/during a session?",
+        "answer": "Verify your connection before the session starts, to ensure a smooth experience. If the call drops and you're still within your session time, you can sign back into the session. Offer a refund to the consumer, in the amount that seems fair for when the call dropped."
+    },
+    {
+        "id": "e12",
+        "question": "How do I get paid?",
+        "answer": "You'll receive payment every week for the sessions you've held, delivered directly to your bank account. We handle all billing and payment through <a class='inline' href='https://stripe.com'>Stripe</a>, to ensure you get paid securely and timely at no extra cost. This way you don't have to worry about accepting cash, checks, or any \"I can't find my wallet.\" scenarios. If you don't have an account with Stripe, you'll create one during the profile building process. Stripe is used by over 3 million online websites &mdash; including Amazon, Apple, and Target."
+    },
+    {
+        "id": "e13",
+        "question": "If a consumer doesn't show up, do I still get paid?",
+        "answer": "Yes, as long as you join the session during the scheduled time. The consumer may be running late. So don't assume they're not coming. The consumer must cancel at least 4 hours before the start of the session, to get a full refund."
+    },
+    {
+        "id": "e14",
+        "question": "How can I use my profile as both an expert and a consumer?",
+        "answer": "You can swap back and forth within the app."
+    },
+    {
+        "id": "e15",
+        "question": "Who can I reach out to for help with my account?",
+        "answer": "For Smeeple-related inquiries, contact us at <a class='inline' href='mailto:support@smeeple.com'>support@smeeple.com</a>. For payment-related inquiries, contact <a class='inline' href='https://support.stripe.com'>Stripe</a> directly."
+    }
+]

@@ -1,0 +1,8 @@
+{
+    // Use Prettier to format files, on save.
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    // Use Stylelint to lint SCSS files.
+    "stylelint.validate": ["scss"],
+    "scss.validate": false
+}

@@ -1,0 +1,5 @@
+.nuxt/
+.output/
+.vscode/
+prettier.config.js
+tailwind.config.js
